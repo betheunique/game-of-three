@@ -1,4 +1,4 @@
-# Game Of 3
+# Takeaway's Game Of 3
 Any Whole Number can be divisible by 3 either adding -1 or 0 or 1.
 This Game let you see the Magic
 
